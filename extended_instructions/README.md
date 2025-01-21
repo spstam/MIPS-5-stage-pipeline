@@ -21,4 +21,4 @@ These instructions have been verified using the provided testbench, which includ
 
 ## Note
 
-While these instructions have been tested, there may still be edge cases or bugs. Please report any issues you encounter.
+While these instructions have been tested, in this version of the extentions there may still be edge cases or bugs. Please report any issues you encounter.
