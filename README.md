@@ -1,2 +1,8 @@
 # MIPS-5-stage-pipeline
-Implementation in verilog
+Instructions implemented:
+- R_FORMAT
+- LW
+- SW
+- BEQ
+- ADDI
+- Also stalls and bypasses
