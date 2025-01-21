@@ -27,4 +27,4 @@ This repository contains a Verilog implementation of a 5-stage pipelined MIPS pr
 
 Contributions are welcome! Feel free to submit pull requests or open issues for bug reports and feature suggestions.
 
-**License:** MIT License
+## License: MIT License
